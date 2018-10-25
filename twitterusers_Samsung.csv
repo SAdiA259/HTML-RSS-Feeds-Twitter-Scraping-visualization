@@ -1,0 +1,1001 @@
+handle,name,age,num_of_tweets,has_profile,has_pic,num_following,num_of_favorites,num_of_lists,num_of_followers
+Samsung,Samsung Electronics,1285,2723,1,1,1562,222,685,313731
+SamsungMobile,Samsung Mobile,2319,4503,1,1,437,172,12015,12327409
+SamsungMobileUS,Samsung Mobile US,3476,138711,1,1,20599,58934,8956,5359653
+SamsungTV,Samsung Televisions,2607,5910,1,1,405,255,583,116840
+SamsungMobileME,SamsungMobileArabia,2591,16787,1,1,2637,308,599,241216
+SamsungUS,Samsung USA,3068,36161,1,1,31922,6404,5220,673924
+Samsung_IN,Samsung India,2202,13198,1,1,40,460,182,204077
+SamsungCanada,Samsung Canada,2684,19524,1,1,3745,5983,548,58425
+SamsungLEVANT,Samsung LEVANT,2448,13257,1,1,2332,1917,169,364654
+SamsungMobileSA,Samsung Mobile SA,3010,23949,1,1,1199,14321,511,592151
+SamsungGulf,Samsung Gulf,2920,6440,1,1,2016,105,194,120783
+SamsungSA,Samsung South Africa,2727,18871,1,1,308,9906,327,462245
+SamsungAU,Samsung Australia,1591,25061,1,1,826,3988,133,52310
+SamsungUK,Samsung UK,2662,48039,1,1,30,673,1138,176158
+SamsungSupport,Samsung Support USA,3172,454770,1,1,31849,472,1224,140735
+samsungireland,Samsung Ireland,2402,6735,1,1,331,1256,87,20519
+SamsungBizUSA,Samsung Business USA,1968,7402,1,1,1617,649,612,74948
+SamsungExynos,Samsung Exynos,2398,2620,1,1,1016,265,304,80825
+samsungph,Samsung Philippines,2076,5575,1,1,290,338,191,61520
+SamsungHelpUK,Support Centre,617,69200,0,1,1,41,37,10954
+SamsungRomania,Samsung Romania,2690,7843,1,1,302,369,95,10589
+Samsung_Pak,Samsung Pakistan,1603,2902,1,1,12,425,91,235736
+SamsungTVUSA,Samsung TV USA,1591,13724,1,1,4551,1739,220,105879
+samsung_dev,SAMSUNG DEVELOPERS,3131,4772,1,1,684,859,505,30185
+samsungmobileng,Samsung Mobile NG,2062,16475,1,1,670,786,124,178555
+837NYC,Samsung 837 NYC,633,3926,0,1,305,3065,92,45883
+samsungsport,Samsung Sport,3130,8960,1,1,686,1131,137,35910
+SamsungNotebook,Samsung Notebook,2467,2255,1,1,129,313,294,45942
+AussieDiamonds,Samsung Diamonds,2867,11612,1,1,430,4991,246,66558
+SamsungNorge,Samsung Norge,2468,1485,1,1,144,125,65,33812
+SamsungIoT,Samsung IoT,899,1462,1,1,412,829,940,49592
+SamsungMalaysia,Samsung Malaysia,2079,8955,1,1,354,153,122,82752
+SamsungSverige,Samsung Sverige,2474,3260,1,1,125,82,82,40462
+SamsungDevUS,Samsung Developer,1925,1501,1,1,2018,665,167,19686
+SamsungSG,Samsung Singapore,3276,6899,1,1,47,163,154,15824
+Samsung_CH,Samsung Schweiz,2402,5436,1,1,343,1139,113,17239
+SamsungBiz,Samsung Biz Mobile,1205,1814,1,1,363,283,133,44255
+SamsungCameraUS,Samsung Camera USA,2359,3062,1,1,323,1808,119,28897
+SamsungSLife,Samsung SmartLife,204,229,0,1,151,10,38,45831
+SamsungNewsUS,Samsung US Newsroom,647,900,0,1,968,946,59,2190
+SamsungCRBN,Samsung Caribbean,1379,2321,1,1,216,455,37,5688
+SamsungSemiUS,Samsung Semicon,2870,3766,0,1,393,85,152,8807
+SamsungMobileUK,Sam Private,2003,34183,1,1,24,287,363,94562
+Samsung_Ghana,Samsung Ghana,1955,4799,1,1,419,598,20,19747
+Samsung_Nigeria,Samsung Nigeria,1738,1687,1,1,60,3,25,20028
+samsungbusiness,Samsung Business UK,2678,2092,1,1,425,1103,75,3115
+SamsungDC,SamsungDC,611,292,0,1,347,134,26,1933
+SamsungCTC,Samsung Lebanon,2213,8271,1,1,2467,786,85,15088
+SamsungCareSA,Samsung Service SA,821,6667,0,1,4,22,6,1641
+samsungaccel,Samsung Accelerator,1681,1318,1,1,420,247,164,3594
+SamsungMobileKE,Samsung Mobile Kenya,2422,10184,1,1,914,1099,91,41914
+SamsungMobileIN,Samsung Mobile India,3019,32750,1,1,114,2135,951,1394897
+SamsungBizEU,Samsung at Work,1422,3336,1,1,1481,555,159,13862
+SamsungDevEU,Samsung Developers,1226,2082,0,1,113,61,103,1691
+SamsungPay,Samsung Pay,592,4524,1,1,161,7304,141,329482
+SamsungPayUS,Samsung Pay US,665,18087,0,1,106,23859,101,93164
+phsamsung,Samsung Philippines,2915,1883,1,1,182,26,107,29589
+SamsungHealth,Samsung Health,189,197,0,1,15,38,19,23023
+hackapreneur,Justin Wu,1964,7257,1,1,22212,36952,1553,55241
+SamsungEDU,Samsung Education,739,1187,0,1,123,226,185,7359
+SamsungPulse,Samsung Healthcare,583,668,0,1,105,12,125,13925
+SamMobiles,SamMobile,2177,20981,1,1,15,54,1388,95201
+IamReminisce,#PONMILE,3020,17348,1,1,1305,65,568,411810
+JChengWSJ,Jonathan Cheng,2177,19154,0,1,1226,9048,763,18934
+Samsung_RA,Samsung Research Am,1186,742,0,1,91,204,46,1113
+pranavmistry,Pranav Mistry,3005,3556,1,1,557,574,546,70429
+George_Fordy,George Ford,2361,735,0,1,326,315,255,58376
+SamsungHungary,Samsung Magyarország,849,2913,1,1,125,256,29,4675
+SamsungSabrina,Sabrina,2534,6339,1,1,1692,27,43,1666
+sharatibken,Shara Tibken,2796,6168,1,1,1207,3360,520,10375
+afterromeo,After Romeo,3085,35372,1,1,33078,4196,1182,272374
+JMSamsungS3,Samsung Galaxy S7,1840,3536,0,1,29,90,13,5759
+ErdemErkul,Dr. R.Erdem ERKUL,2768,37080,1,1,497,1506,400,59209
+joyent,Joyent,3892,7394,1,1,2941,2664,1266,52785
+toofan,Dwipal Desai,3839,800,1,1,212,117,77,1144
+samsunginternet,Samsung Internet Dev,445,378,1,1,24,509,35,1068
+samsungbakstage,Samsung Backstage,1983,3235,1,1,104,295,18,6137
+SamsungNEXT,Samsung NEXT,1054,1568,1,1,760,1559,183,1942
+theSamsungSide,theSamsungSide,589,3438,0,1,2997,10006,18,10945
+SamsungMobileUg,#GalaxyS7,1897,6396,1,1,1739,442,15,6758
+GalaxyNote2Fan,Samsung Galaxy S7,1738,3359,1,1,424,50,51,14003
+adarshshastri,Adarsh Shastri,2220,3017,0,1,135,50,103,30396
+socialnerdia,Esteban Contreras 🤔,3087,18303,1,1,3124,12664,1063,17574
+Smartphones,Smartphones News,1952,6856,1,1,5,0,207,25479
+iCracked,iCracked,2711,3371,1,1,1465,446,81,4676
+SamsungUpdates,- SU -,2298,104575,1,1,202,1,162,13314
+SamsungKE,Samsung Kenya,1642,3673,1,1,167,167,14,6429
+geoffrey_cain,Geoffrey Cain,1980,4502,1,1,896,1204,177,7066
+SamsungSSIC,Samsung SSIC,1232,1085,0,1,474,53,50,884
+samsungnz,Samsung NZ,1341,2795,0,1,895,2974,95,1458
+CBassNetball,Caitlin Bassett,2399,6597,1,1,271,21,106,12800
+SamsungAustin,Samsung Austin Semi,2363,325,0,1,188,1,20,660
+ARTIKCloud,Samsung ARTIK Cloud,1043,705,0,1,236,10,181,1224
+SamsungNewsIN,SamsungNewsroomIN,182,112,0,1,3,0,1,152
+drhew,David Rhew,3042,160,1,1,179,98,39,781
+mattswider,Matt Swider,3170,3932,1,1,1572,1700,107,4411
+mikeal,Mikeal Rogers,3892,51169,1,1,697,14345,1075,19065
+gilsmithii,Gil Smith II,2765,8,1,1,260,18,81,14663
+itrainrhee,Injong Rhee,2468,670,0,1,58,203,11,1232
+SamsungService,Samsung Service,2234,115,0,1,16,0,17,2011
+SerifTV,Serif TV,749,723,1,1,929,343,9,1039
+bangodotcom,Bango,3053,1597,1,1,299,430,152,2143
+SamKiesUpdates,SamKiesUpdates,2236,63160,1,1,3,0,556,33775
+EVEGunjack,Gunjack,800,76,1,1,4,33,24,1009
+singleymackie,Singley + Mackie,2523,1176,1,1,418,14,166,6681
+updayUK,upday for Samsung UK,750,9784,1,1,684,255,44,560
+Samsung_MobiIe,Samsung Mobile News,1495,35200,1,1,13917,0,35,20582
+ravinderzutshi,Ravinder Zutshi,1012,105,0,1,53,15,1,1309
+MCSaatchiSteveM,Steve Martin,3158,12011,0,1,1391,6267,101,5999
+SamsungReports,Samsung,1912,1551,1,1,819,0,34,4406
+Samsung_ID,Samsung Indonesia,2438,51523,1,1,3,84,1002,2121417
+mattmiesnieks,Matt Miesnieks,3769,8279,1,1,938,14675,210,2410
+Dagk,Dag Kittlaus,3196,784,0,1,318,21,244,5215
+SamsungGifts,Samsung-Gifts.com,2119,3581,0,1,2096,0,3,1736
+beist,beist,3210,3540,1,1,250,180,241,7579
+SamsungSDSA,Samsung SDS America,1044,360,1,1,154,68,8,200
+SamsungMobileZM,Samsung Mobile ZM,897,1198,1,1,381,548,9,1215
+AtSignNick,Nick Tran,2752,1132,1,1,87,642,30,1320
+SSMostLoved,Samsung Most Loved,547,282,0,1,152,78,6,151
+RealShinB,SHIИB ◄► 신비,2878,3437,1,1,123,854,56,2423
+goldenkrishna,Golden Krishna,2905,3928,1,1,2247,4003,350,6898
+mombo,Richard McAniff,3616,1411,1,1,362,106,145,2768
+atShruti,Shruti └[-∵-]┘AI VC,3090,3099,1,1,1550,2782,229,3568
+fiahless,Felix Petersen,3831,2670,1,1,1753,150,176,4190
+wooky2000,Wook Chung,3159,2587,1,1,693,7142,85,1086
+OBrien_Kat,Kat O'Brien,2149,7025,1,1,263,8758,37,637
+NickGearVR,Nick DiCarlo,1052,539,0,1,793,906,110,2129
+rusignola,Michael Rusignola,3011,2242,1,1,858,4395,44,5298
+PHOTOlulu,PHOTOlulu,3828,41516,1,1,284,485,75,2111
+genebecker,Gene Becker,3680,9232,1,1,1096,6787,290,3067
+jukevox,Matthew Hawn,3806,13864,1,1,1040,2077,101,1515
+andreatrasatti,Andrea Trasatti,3447,10393,1,1,516,490,202,2068
+texanrose,SJS,3350,7126,1,1,2937,1715,131,12290
+Samsung_Daily,Daily,1554,3906,1,1,86,135,33,364
+DigitalMarvyn,Marvyn Harrison,3137,57151,1,1,1558,3922,82,6540
+samsungTEAM99,Samsung Team,2581,1742,1,1,519,56,1,727
+jgerber,Jim Gerber,3501,2611,0,1,562,3805,25,655
+akmunroe,Alexandra Munroe,1984,1325,1,1,265,739,61,11131
+Nale,Natalia Burina,3424,7222,1,1,787,12840,155,1984
+ckurdziel,Chris Kurdziel 🤘🏻,3206,14301,1,1,933,27297,115,1783
+SamsungBrasil,Samsung Brasil,2975,61259,1,1,32505,96,1282,560105
+AshlynBellerose,Ashlyn,2878,1755,1,1,10092,595,136,17516
+Samsung_Egypt,Samsung Egypt,2082,16515,1,1,78,514,260,385246
+nitinmisra,Nitin Misra,2999,4957,1,1,604,2054,37,1072
+upe,Upendra Shardanand,3803,29,1,1,353,82,75,1120
+SamsungCamera,Samsung Camera,3126,5539,1,1,32731,12,1048,760837
+vishmon2012,Galaxy Mobile,1847,10878,0,1,360,2763,48,1378
+SamsungChile,Samsung Chile,2291,35327,1,1,29029,20151,315,393948
+giuliaccia,TravelReportage,3270,13709,1,1,1582,828,367,5253
+SamsungMobileCA,Samsung Mobile CAN,3376,11229,1,1,1544,786,299,22529
+rychoiMD,Ricky Y. Choi MD MPH,2364,20638,1,1,1714,11742,269,5343
+Bippy,Bippy,3464,7752,1,1,546,180,10,521
+spiderwebwoman,Kathleen Anderson,3597,5097,1,1,2479,2817,108,2076
+SamsungMexico,Samsung México,2605,30227,1,1,14029,2440,698,763402
+SamsungEspana,Samsung España,3021,50323,1,1,974,20893,1169,188141
+SamsungItalia,Samsung Italia,2998,16453,1,1,663,2428,711,261977
+SamsungRu,Samsung Russia,2922,18892,1,1,0,0,754,148548
+Beth_Estella,Beth Avant,3460,30564,1,1,5740,2229,405,8026
+SamsungTurkiye,Samsung Türkiye,2474,38489,1,1,51,7,313,258239
+SamsungMobiAfr,SamsungAfrica,1799,2276,1,1,2247,134,123,269932
+SamsungLatin,Samsung Latin,2699,31587,1,1,3679,1509,869,284744
+SamsungAT,Samsung Österreich,2402,4481,1,1,161,212,90,16251
+SamsungKZ,Samsung Казахстан,2842,6837,1,1,3234,406,146,172576
+SamsungArg,Samsung Argentina,2389,57219,1,1,1144,8828,520,307663
+SamsungEC,Samsung Ecuador,1978,9049,1,1,323,724,82,52392
+samsungportugal,Samsung Portugal,2333,2591,1,1,293,1412,57,7338
+SamsungCO,Samsung Colombia,2572,13475,1,1,1254,2325,331,268646
+SamsungResponde,Samsung Responde,2642,31870,1,1,703,6217,937,136449
+SamsungVE,Samsung Venezuela,2927,32612,1,1,1353,265,779,131927
+SamsungGreece,Samsung Greece,2037,3249,1,1,347,11,150,167095
+SamsungMobileTH,Samsung Mobile TH,2140,11605,1,1,840,460,150,48984
+Samsung_Peru,Samsung Perú,2597,3007,1,1,409,724,163,130728
+SamsungDE,Samsung Deutschland,767,16691,1,1,260,2070,184,107025
+Samsung_NL,Samsung Nederland,2655,102497,1,1,660,3035,328,47551
+The_Bike_Lane,Samsung Bike Lane,1617,598,0,1,79,476,34,2175
+SamsungMaroc,Samsung Maroc,1930,3002,1,1,525,377,64,96845
+SamsungMobileNL,SamsungMobileNL,2576,34238,1,1,2546,396,223,33687
+SamsungRD,Samsung RD,2316,10132,1,1,157,3980,119,37787
+SamsungPTY,Samsung Panamá,2193,12401,1,1,280,2397,139,69918
+SamsungEmpresas,Samsung Empresas,626,1278,0,1,773,655,48,2325
+SamsungSports,Samsung Deutschland,2955,100,1,1,183,1,74,4466
+SamsungBelgie,Samsung België,2320,12954,1,1,761,2228,162,14635
+SamsungFlash,SamsungNews,2958,12574,1,1,51,1,36,1290
+SamsungOSG,Samsung OSS Group,1565,1228,0,1,92,485,99,1118
+SamsungDK,Samsung Danmark,2388,2705,1,1,178,105,86,29103
+SamsungCZSK,Samsung CZ a SK,2104,2134,1,1,330,302,69,16285
+SamsungCR,Samsung Costa Rica,2673,5334,1,1,413,564,55,37941
+SamsungLV,Samsung Latvija,3060,10797,1,1,670,489,106,11638
+samsungukraine,Samsung Ukraine,3026,3622,1,1,5409,93,219,17150
+SamsungSecure,Samsung Security,115,119,0,1,64,1,8,6659
+Rikk55,Rik Lee,2754,991,1,1,1122,124,0,224
+AndrewDickerson,Andrew Dickerson,3131,183,1,1,252,477,13,300
+SamsungSmartCam,SamsungSmartCam,1034,710,1,1,178,129,15,5045
+samsungbada,Samsung bada,2870,1891,1,1,1419,0,397,13502
+SamsungCroatia,Samsung Hrvatska,2479,3777,1,1,543,862,52,5337
+SamsungLT,Samsung Lietuva,2530,3488,1,1,1063,3,26,2716
+SamsungProFR,Samsung Pro France,1148,1322,1,1,180,226,163,3293
+updayDE,upday for Samsung DE,750,3155,1,1,236,70,29,1096
+supportosamsung,Supporto Samsung,2020,32897,1,1,4237,136,75,12175
+SamsungBizIT,Samsung Business IT,505,462,0,1,176,197,33,3443
+SamsungKG,SamsungKG,2388,2107,1,1,1873,10,17,3828
+SamsungBahrain,Samsungbahrain,2368,2419,1,1,2635,27,7,3635
+SamsungEE,Samsung Eesti,2928,2630,1,1,170,10,17,982
+SamsungUruguay,Samsung Uruguay,932,1735,1,1,228,2326,8,8763
+Aditya_Prasetya,Aditya Prasetya,3008,9885,1,1,1640,1317,4,827
+amitpaka,amit paka 🐨,3206,1734,1,1,501,722,0,370
+mobilejae,Jae Shin,3109,890,1,1,472,4,12,447
+SamsungNewsroom,삼성전자 뉴스룸,2828,12944,1,1,235611,467,3062,1063403
+SamsungBelgique,SamsungBelgique,1136,4670,1,1,96,534,70,6142
+SamsungMobileKR,Samsung Mobile Korea,2543,5059,1,1,125420,0,478,127934
+SamsungUnlockPR,Samsung Unlock,2893,49151,1,1,48,230,18,865
+SamsungCentroAm,Samsung CentroAm,2633,5181,1,1,2135,1663,45,31878
+oscartrelles,Oscar Trelles,3869,13355,1,1,430,2457,226,2196
+MinCheong,Min Cheong,3033,5367,1,1,692,1843,47,489
+powersander,Julien Lecomte,2611,1811,0,1,36,296,31,430
+GwentMoths,mel oxford,1807,9034,0,1,382,18872,20,973
+divakarlasrini,Srinivas Divakarla,2854,2676,1,1,952,219,19,560
+SamsungSpain,SamsungImagingSpain,2963,8,1,1,19,0,8,580
+tianchad,TianChad,3220,51838,1,1,1169,993,94,2696
+FirmwareSamsung,Samsung Firmware,816,65247,1,1,587,0,13,1618
+martinkathriner,Martin Kathriner,2712,6561,1,1,1524,5630,364,2423
+Zach_Petrick,Zach Petrick 페트릭,2506,398,0,1,315,410,130,5770
+Samsung_Cares,Samsung,1440,974,0,1,47,352,7,3026
+TheRoops,Mr Roops,3019,66141,1,1,2448,11214,41,920
+iProLens,iProLens,2135,3611,0,1,515,36,55,1874
+neilw,Neil Wehrle,3567,10309,1,1,621,3611,59,1038
+SideKickWheels,SideKick Wheels,809,476,0,1,704,851,0,10790
+scorpianaaaaaaa,Geaux Getta,3029,94604,1,1,295,210,24,1621
+jenlynch,Jen Stratton,3376,2315,1,1,2444,1038,82,2364
+Mavericksfolife,Mavericksfolife,1694,88212,0,1,1426,949,117,701
+vstesin,Vlad Stesin,3845,1494,1,1,538,125,44,847
+samsungmobilenp,Samsung Mobile Nepal,823,451,0,1,4,13,8,1363
+LoLNoblesse,Noblesse,1963,592,1,1,714,35,6,1006
+amitdayal,amit dayal,3023,69,1,1,128,15,7,439
+Mark_Micheli,Mark Micheli,3083,1763,1,1,770,459,22,782
+Samsung_Reviews,Low carb Diet,2751,32909,0,1,1613,0,15,687
+affablechap,Christopher Buchanan,3827,5209,1,1,749,3883,67,995
+Cyberrank10,CyberRank Prime,1095,9524,1,1,1890,12605,35,825
+mkeblx,blix,3751,1502,1,1,1043,3324,92,886
+tsella,Tom Sella,3976,4018,1,1,700,890,48,1360
+geffchang,CHANG,2929,6393,1,1,172,822,8,418
+tylerhopf,Tyler Hopf,2175,6990,1,1,1711,3959,142,2126
+DesignKuhr,Rachel Kuhr,1718,448,1,1,353,162,23,684
+jimbocoyle,James Coyle,3213,5192,1,1,1463,607,18,709
+JeeeM,joran.maaswinkel.nl,3728,59052,1,1,1142,324,140,1509
+vichasselmann,Victor Hasselmann,2860,318,1,1,337,938,26,302
+staciechang,stacie chang,2588,2806,1,1,874,1486,27,829
+hellosamyoo,윤수45國305市出張,2984,68207,1,1,526,24754,325,6931
+robchristensen,Rob Christensen,3846,4420,0,1,221,1072,122,1717
+wefix,weFix,2109,6191,1,1,696,641,36,3887
+nicolah84,Nicola Hanley,3168,25437,1,1,1448,631,55,2451
+nuysew,Wes Yun,3742,1277,1,1,946,252,48,894
+damiankoh,Damian Koh,3393,3918,1,1,539,0,19,634
+natlikethat,Natalie Monbiot,2335,1333,1,1,695,716,55,984
+stevencook,Steven Cook,3420,5608,1,1,2078,396,302,2040
+Samsungs7Edge,SAMSUNG S7 EDGE,548,2,1,1,292,2,1,1862
+TheNestiO,TheNestiO,1015,3091,1,1,410,1373,117,3223
+sophfeng,Sophia Feng,2971,80,1,1,84,33,3,254
+iCharge,iCharge® Brand,3081,167,1,1,5842,172,130,9909
+IanMcFa01767008,Samsung Surveillance,340,3553,0,1,2325,4387,6,1005
+whitneytravels,Whitney Tressel,2189,1181,0,1,308,803,25,642
+MYN,MarkYoshimotoNemcoff,3875,7714,1,1,1290,847,128,2609
+RougeReporter,Trump WH Christmas,2737,42395,1,1,183,691,35,1317
+hlray3,H.L. Ray,3114,2648,0,1,1715,919,21,724
+CamSecurityNow,Camera Security Now,2130,7123,0,1,4908,37,236,8101
+DainFitzgerald,Dain Fitzgerald,2968,18081,1,1,1777,3826,55,1379
+chrisp,Christopher Paretti,3992,2366,1,1,287,43,31,513
+alexchudesign,Alex Chu,1996,1336,1,1,854,2950,83,1103
+taictran,Tai Tran,2051,656,1,1,272,1083,93,3354
+Macmerise,Macmerise,1407,2822,0,1,290,1126,25,1567
+Ze_Bach,Bachir Zeroual,2932,733,1,1,195,974,24,753
+sammyhubcom,Sammy Hub,3179,6140,0,1,158,4,141,3867
+caseygraf1,Casey Graf,1957,2470,1,1,2670,480,16,26342
+ShubhodipPal,Shubhodip Pal,587,139,0,1,65,510,3,280
+itnetinfocom,ITNET,3101,5326,1,1,443,554,32,2066
+SamsungMobNepal,Samsung Mobile Nepal,379,52,0,1,5,15,1,1092
+Starcom_STS,Starcom Team Samsung,1711,212,0,1,147,29,4,206
+MooPhace,Rich,1807,8347,1,1,419,3707,24,1463
+AsianGeekSquad,Asian Geek Squad,1136,2780,1,1,74,7524,83,11223
+SamsungIDN,Samsung Indonesia,1063,8479,0,1,204,0,17,2052
+scbaldwin,Scott,3346,6231,1,1,1348,695,49,738
+bastienchanot,Bastien,3133,70,1,1,848,484,146,1951
+Chizom_,Chizom Echehieuka,2660,43782,1,1,1246,3047,1082,1301
+kswint,Kevin Swint,3743,3300,1,1,1055,6672,37,520
+AvodrocCustoms,Avodroc,2084,3568,1,1,161,686,7,2538
+c00v,Gary Coover,3083,2345,1,1,554,1898,42,972
+dvirreznik,Dvir Reznik,3468,28096,0,1,3916,929,301,4924
+KP1877,KP1877,3081,22779,0,1,345,1343,51,1551
+clx_samsung,CLX Samsung,2297,5549,1,1,2675,793,146,37317
+ryanoemge,Ryan O. Emge,2824,5176,1,1,1238,1785,254,1237
+tuxnet,Andrés Luquetta,3403,26078,1,1,1035,215,136,2057
+RobCuts,Rob Vawter,1912,2672,0,1,1139,2382,11,328
+argiope,james,3313,5279,1,1,211,6177,116,1458
+NetSanityMobile,Netsanity,1313,8149,1,1,8269,4080,318,8840
+nanotechent,NanoTech Ent,2949,1721,1,1,2130,959,25,3235
+DKiaAnderson,D'KIA ANDERSON ॐ,3028,13960,1,1,2218,1119,59,3289
+Eco_gen,Eco-generation | 꿈푸,2775,4339,1,1,2485,466,66,3032
+AppQuality,App Quality Alliance,2968,1144,1,1,930,29,109,1173
+ktd_NYC,Katie Davies,2695,7727,1,1,1167,251,26,660
+LRWMotiveQuest,LRWMotiveQuest,3416,1051,1,1,1984,106,92,1288
+varun_iiml,Varun Reddy Sevva,3072,19023,1,1,341,3082,64,846
+luisbg,luisbg,3224,5142,1,1,1960,7814,117,1121
+vijay2win,Vijay,3094,1584,1,1,184,137,27,845
+biovf,David Sena,2439,5466,1,1,2249,4691,45,695
+dan_heap,Dan Heap,2398,569,1,1,1018,39,56,1976
+Kidogo_Kidogo,Kidogo Kidogo,1578,682,0,1,1359,17032,41,1127
+VivaLaBamb3r,Amber Bamber,3097,460,1,1,1364,424,3,368
+kristianvatto,Kristian Vättö,2519,4370,1,1,299,87,22,763
+theotherEros,Eros Marcello,2815,59,1,1,143,289,6,2332
+analogVarun,Varun Mittal 海王वरुण,2699,5820,1,1,580,1173,164,1336
+khana3152,Samsung galaxy s7,809,675,0,1,2051,853,6,1474
+laszlogombos,Laszlo Gombos,3015,520,0,1,1017,10507,40,449
+Vi2_Samsung,Viserys,1727,14842,1,1,471,3545,1,592
+SoundsmartMosta,Soundsmart (Samsung),2581,2459,1,1,2373,9,1,1043
+Samsung_Notes,Samsung Mobile,1204,125417,1,1,37,108,5,533
+SamsungGearS,Samsung Gear S,1107,3321,1,1,1,0,29,824
+Samsung360Gear,Samsung Gear 360,446,13,0,1,11,85,3,341
+samsung_rumors,Samsung Rumors,1842,2563,1,1,255,1,29,267
+nfconnolly,hinghamneil,3356,242,1,1,890,27,4,294
+JustinLeeDoyle,Justin Lee Doyle,2300,3289,1,1,1814,9,37,1656
+Samsung_HealthC,Samsung Healthcare,647,112,1,1,622,50,8,539
+samsungGAILaxy,G a i l,1621,9400,1,1,180,17147,0,334
+TeamFragsters,Fragsters,563,1354,1,1,137,1834,9,1076
+Samsungln52a650,Samsung ln52a650,3063,12477,1,1,4677,1,8,4588
+jfrydakis,Jason Frydakis,3784,3902,0,1,419,419,35,636
+diarmuidmallon,Diarmuid Mallon,3062,818,1,1,1730,79,81,1343
+kapildsharma,Kaps,2619,26534,1,1,659,3430,33,603
+GlennCameronjr,Glenn Cameron Jr,3082,2756,1,1,280,1530,149,33539
+jamesmorrowhes,James-Morrow,2886,4808,1,1,451,3909,24,1057
+Poppybead,Rebecca Orleans,2771,19970,1,1,2048,7161,91,1834
+ibrahimatlinux,Ibrahim Haddad,2526,1074,1,1,614,78,92,810
+lovefone,Lovefone,2620,2012,1,1,260,312,13,838
+IGiSkate,IGi Skate,720,901,1,1,161,593,0,751
+EthanRasiel,Ethan Rasiel,3136,2272,0,1,747,510,68,1608
+Lady_Ada_King,Ada Rose 🏳️‍🌈✨,2495,19554,1,1,397,14910,201,3474
+_rmf20,Rasha M. F,3038,590,1,1,591,33,6,348
+talhaghannam,A Tweet of Truth,2825,6550,1,1,1260,70,15,997
+micorsica,marianne ridgewell,2085,32335,1,1,1817,9272,141,2157
+GwanhooLee,Gwanhoo Lee,3112,609,1,1,260,13,28,395
+mcdade_jr,Marcus McDade,2370,1709,0,1,320,633,0,511
+DjDrapes,DavidDrapes,3047,20974,1,1,638,513,34,1046
+kapoorsalil,salil kapoor,2651,3086,0,1,368,85,71,1066
+TxTechGooner,Jämës,2760,28845,1,1,886,16,49,1442
+JJOnTech,Jeanine Jue,2958,574,1,1,1897,25,64,1759
+RealBrianWarner,Brian Warner,900,2696,1,1,320,1343,50,385
+ampedbypower,Amped,1549,1761,1,1,694,1045,6,825
+scotpoorman,Scot Poorman,2706,44279,0,1,370,164,262,1138
+crbazevedo,Carlos R. B. Azevedo,2791,5913,1,1,848,6937,276,1054
+calllet,Call Let,3095,15877,0,1,1858,0,19,1413
+juano2310,Juan Pablo Risso,3540,715,1,1,306,677,26,1052
+mrosenblatt,Michael Rosenblatt,3643,348,0,1,580,37,21,440
+ElinWallberg,Elin Wallberg,2192,1419,0,1,730,1273,73,803
+LoveToText,Love ToText,3040,68705,1,1,1021,489,57,1005
+KevinGilroy,Kevin Gilroy,2612,1015,0,1,633,204,80,1712
+samsung_review,Subtitles,2711,44303,0,1,828,0,11,357
+janineemoon,Janine Mooney,1067,919,0,1,1685,480,74,1241
+JBoishere,Jon Borenstein,1740,5062,0,1,325,4004,17,1181
+Galaxy_S6_News,Samsung Galaxy S6,948,2784,1,1,46,0,9,1276
+SamsungJackets,Philipp H,2300,264,1,1,464,503,0,78
+breaking_fourth,Breaking Fourth,753,547,1,1,1071,536,71,860
+GoldenGekko,Golden Gekko,3182,1448,1,1,1596,54,110,1567
+panhoong,Whan Woong Kim,3810,1024,1,1,783,170,48,716
+int13,int13,3100,596,1,1,242,1,97,941
+bomoon,Bo Moon,3087,88,1,1,342,20,13,343
+harizh,Harish Krishna,3152,581,1,1,438,74,18,410
+TodaysCloseout,Todays Closeout,3208,1405,1,1,1951,0,0,2389
+jcnaour,JeanChristophe Naour,3116,3129,1,1,323,208,34,1203
+SimlockServer,Steven,2875,734,1,1,378,14,4,1610
+campgraham,Campbell Graham,2923,337,1,1,824,50,27,559
+SamsungCNC,Samsung Machine Tool,1915,56,1,1,1020,4,5,726
+Samsung_Saudi,SamsungSaudi,2118,47237,1,1,44,767,621,696956
+PlumpandPretty_,samsung note 7 pussy,2332,144950,1,1,761,28315,30,1968
+leahhuyghe,Leah Huyghe,2183,124,1,1,366,519,62,1209
+FirstGeekDanny,Danny Baromen,3399,16686,1,1,237,11454,26,503
+StefanHeuser,Stefan Heuser,1975,147,0,1,888,60,10,441
+rootsamsung,Root Samsung,1495,145,1,1,73,3,0,104
+VRfilmsInc,VRfilms.com,1154,371,1,1,398,45,55,1252
+PforProduction,P for Production,2347,380,1,1,642,33,25,1607
+SamsungRacing,Samsung Racing,974,731,1,1,147,504,3,242
+niedzielski,Stephen Niedzielski,3422,668,1,1,808,15,19,222
+SingSpaceGame,SingSpace,366,100,1,1,44,15,0,156
+drjpierce,Jeff Pierce,3263,1945,1,1,69,0,39,369
+eoincruise,Eoin Cruise,3190,1401,1,1,2036,144,5,703
+ilovemygear,I Love My Gear,1299,212381,1,1,613,444,2093,2616
+samsungmobilemx,Samsung Mobile MX,2719,32769,1,1,1825,2812,601,362256
+GilesElectrical,Gerald Giles,1710,1881,0,1,1253,82,24,1536
+Updates247ds,Dsmedia24 Official,715,236,1,1,19,42,0,23513
+ALL_STOCK,ALL STOCK,2913,39195,1,1,2351,100,19,3625
+jooropa,Jang H. Joo (주장훈),3027,5661,1,1,1358,161,53,1422
+bosko,Bosko Milekic,3845,1948,1,1,396,211,32,522
+jaunlaubscher,Jaun,2109,17634,1,1,655,2001,92,1981
+tetrismoar,Teresa 🐰,3322,1661,1,1,598,803,18,528
+TinSalamunic,Tin Salamunic,2681,424,1,1,117,166,25,483
+FaizanMunawarV,Faizan Munawar Varya,3039,12523,1,1,1294,1151,34,1425
+protonpopsicle,Scott Meisburger,1906,685,1,1,161,1900,12,115
+AshantiMbanga,ASHANTI MOGOSETSI,1785,2958,1,1,718,1832,10,1331
+NobleSon3,Maximilian Orlando,1678,22336,1,1,4102,17690,84,6847
+TravisWarren8,Travis Warren,1509,952,0,1,395,1833,13,447
+iToysSA,iToys,1629,951,1,1,2368,141,18,3299
+DanielleSTalent,Danielle Warren,2069,2382,1,1,1062,39,18,804
+zesty_tech,Zesty Tech News,547,36475,0,1,1773,35362,590,3611
+greggoski,Gregg Ostrowski,3092,1296,0,1,349,52,49,763
+instantremedy,Albert Jin,3025,11108,1,1,785,13,96,1235
+TabletsUnder100,Tablets Under 100,947,53,1,1,202,2460,1,569
+joedavisdev,Joe Davis,2689,1930,1,1,801,577,26,482
+wgraylin,Will Graylin,2924,299,0,1,133,99,40,1175
+AmponsemJoshua,Joshua Amponsem,1918,15628,1,1,1603,2682,196,2251
+SamsungHVAC,Samsung AC,1884,61,1,1,257,0,6,1130
+Medalist02,9iceboy #rep#Samsung,1615,151112,1,1,345,155,50,561
+myappliance365,Repair My Appliance™,1911,1408,1,1,2850,218,29,4323
+DavidGlaubke,David Glaubke,3396,809,0,1,632,354,32,565
+dadslanding,Derek Wilmot,2570,657,1,1,1227,164,76,985
+jungkees,Jungkee Song,2676,381,1,1,251,651,13,309
+SamsungHealthUS,Samsung NeuroLogica,798,384,1,1,92,83,14,292
+Samsung_News_,Samsungmobile.News,479,756,0,1,54,1457,5,264
+Androidnauts,Androidnauts,1784,96,1,1,528,0,4,470
+SamsungGlassNew,Samsung Glass News,1325,4807,0,1,1819,0,2,1182
+maddielamp,Madison Lampert,2335,319,1,1,723,176,4,333
+marcossouza,Marcos Souza,3104,1654,1,1,360,61,20,431
+badaBlogItalia,badaBlog.it,3121,1360,1,1,133,1,12,649
+SamsungPrincess,SamsungPrincess,908,642,0,1,1398,403,8,631
+ranjidavid,Ranji David,3117,1988,1,1,515,211,30,734
+MattJ0lly,Matt Jolly,2766,1902,1,1,1012,2902,8,1176
+TwistyRide,TwistyRide.com,2672,151,1,1,1417,10,37,1642
+tech_tarheel,Megan Pollock,2964,256,1,1,311,115,15,329
+SallyVernon,Sally Vernon,3125,623,1,1,968,361,9,400
+SulySuleiman,Mo.suleiman1,2452,3313,1,1,203,37,0,676
+Joeyetta,AliciaMatildaLubrani,2482,718,0,1,191,1736,12,266
+SamsungFR,Samsung FR,2759,49082,1,1,861,3570,516,181309
+SamsungPolska,#GalaxyNote8,2556,26692,1,1,389,3743,236,178508
+SamsungMobileCO,Samsung Mobile Co,2978,29986,1,1,1995,2533,340,330415
+KerenSchwartz2,Nerdy Nurse,1353,2173,0,1,2128,7557,26,2621
+mohamadtweets,Mohamad Charafeddine,2398,871,0,1,608,613,48,361
+danbrewerton,Daniel Brewerton,2330,2966,1,1,994,1350,37,1202
+morgsft,Morgan Evans,3047,340,0,1,582,14,16,425
+changepas39,Nick,1815,8167,1,1,451,8114,18,2841
+blue13x,Devin B.,3098,7791,1,1,510,14,32,783
+MetaverseOne,Damon H,1269,2203,1,1,226,630,189,769
+asnowhite,Andrew Snowhite,3059,522,0,1,274,10,7,287
+wellbeingexecs,Mark Mitchinson,928,435,1,1,445,283,28,612
+chadswanzy,Chad Swanzy,3152,6802,1,1,904,53,100,1557
+samsuxxs,SamsungTellsTheTruth,1094,658,0,1,18,191,11,359
+jurhyu,Ju Rhyu,3207,2106,1,1,558,728,21,454
+testalways,Eusebiu Blindu,2646,14672,1,1,879,987,82,1601
+giorgiobaglio,Giorgio Baglio,3051,885,1,1,2168,169,41,473
+khoshgozaran,Ali Khoshgozaran,2227,1245,0,1,711,859,87,867
+caweena,Carina Ngai,3712,2738,1,1,128,359,64,541
+ryfernandez,Ryan Fernandez,3083,827,1,1,205,2281,10,196
+SamsungCarons,Caron Wheeler,1539,2435,0,1,1628,2761,3,323
+gist360,gist360,2230,20027,1,1,3144,1,19,5635
+ArthurFlam,Arthur Flam,1623,1501,1,1,468,23930,84,740
+Faeli42,Oldřich Mahdal,681,48,1,1,168,69,1,286
+samsung284,Rachel Samson,3078,2258,1,1,224,144,1,142
+SamsungHonda,Samsung Honda,1241,655,1,1,24,630,2,69
+DanForsley,Dan Forsley,2977,2397,1,1,19,1169,13,128
+smidge,Alexander Metz,3628,3104,1,1,133,276,65,252
+SamsungCameroon,Samsung Cameroon,1642,564,0,1,819,98,1,313
+alberto02gonzal,Alberto,2349,122533,1,1,1831,0,62,1577
+IamLizzie,Lizzie Ferdinando 👻,3149,10620,1,1,1452,3050,23,503
+IGanaPremios,Gana Celulares,2140,70454,1,1,142,243,5,5305
+SamsungTechEU,SamsungTechEU,526,1703,1,1,1368,3462,25,302
+andreapicchi,Andrea Picchi,3102,8510,0,1,739,957,228,1349
+Jenniferlochan,Jennifer Lo Chan,2132,1685,1,1,640,630,81,736
+RaduAcsinia,Acsinia Radu,3083,1841,1,1,1237,55,33,645
+jswattonjue,Jeanine Jue,3259,746,1,1,416,20,51,607
+chengluo,Cheng Luo | 罗成,3093,1104,1,1,258,11,26,421
+NikolaosB,Nikos Bartzoulianos,3065,730,0,1,1257,660,9,1074
+thePGHSNOW,SNOW,2028,4743,1,1,2343,6123,3,470
+scottwbarrow,Scott Barrow,3089,2497,1,1,227,157,14,273
+NimansSamsung,Chris Hopkins,1459,151,0,1,978,90,2,356
+FSIstores,Samsung,748,377,0,1,552,12,0,457
+IPACA_Samsung,IPACA_Samsung,1464,380,1,1,49,0,3,187
+SMITTENLA,Smitten,2989,417,1,1,285,90,11,599
+JordanMGs,JordanMG,1210,15472,1,1,576,24267,5,605
+cheru2,Shiny Yoo,2743,6242,1,1,238,1483,59,318
+BuyNCell_,BuyNCell,2240,305,1,1,1490,17,3,2267
+MattAlesevich,Matt Alesevich,1495,304,0,1,66,405,55,574
+Mami_Samsung,Rissa Annette,2923,2456,1,1,454,2392,3,255
+eccomi_leah,Leah Petersen,731,458,1,1,494,708,51,277
+armthethinker,Andrew R McHugh,2582,2787,1,1,1669,885,60,862
+sami_circles,SamSung,2143,3915,1,1,762,2817,1,148
+djinnequip,samsung jumpin,1077,8702,0,1,205,53,3,215
+KyasiMarketing,Kyasi,1626,6899,1,1,2146,12,29,3584
+only_arash,ONLY_ARASH COMMUNITY,2347,17506,1,1,424,56592,85,915
+dustinwish,dustinwish,3586,2824,1,1,1888,2347,76,610
+TandemPictures,Tandem Pictures,1570,91,1,1,94,18,2,160
+WoodSamsung47p,Kim Wood,1343,4663,1,1,268,398,20,328
+Voiceoverbird,Sara Starling,2439,2900,1,1,1541,1635,48,1027
+Moxie_Sourcer,Teresa R. Bustamante,3276,1051,1,1,551,59,78,1188
+PortableOne,Portable One,3044,9750,1,1,1937,30,20,1622
+askfelix,felix adewoye,3523,1505,1,1,1125,109,26,1169
+GSMsolutionsIRL,GSMsolutions.ie,1954,5334,1,1,2418,1473,38,1637
+smbanalyst,Art Bailey,3014,1077,1,1,537,532,47,287
+AleyneJ,Aleyne Johnson,2697,205,0,1,341,291,7,212
+Rayintosh,Optimist Prime,3066,13795,1,1,253,9390,5,350
+mbonpain,Max Bonpain,3013,1332,0,1,1998,60,25,710
+TaylorMHoll,Taylor Holland,1172,183,0,1,42,2,23,200
+AthensiPhones,Athens iPhone Repair,1579,1429,0,1,1022,486,5,1301
+Illyolypoly,Ileana Polycarpou,2365,6958,1,1,497,219,4,404
+iDeXteriiiiity,•z̲ƊüҡєՇiiz̲⁶• 💎,1104,7504,0,1,35072,61424,27,36516
+WalkerScotty,Scott Walker,1803,1744,1,1,1655,1174,9,17859
+mattar,marcelomattar,3439,4447,1,1,433,46,6,330
+TiffanySamsung,Tiffany Daughtry,1395,107,0,1,159,290,0,219
+wonny1e,Wonny Lee,3049,406,1,1,199,480,6,145
+billralston,Bill Ralston,3297,2252,1,1,1160,2,17,312
+RolandLombi,Roland Lombi,2816,53369,1,1,510,719,19,1407
+eochell,"Marcelly Susanti, ST",2888,27011,1,1,485,5,6,970
+samsungs7edge4,Samsung S7 EDGE,387,16,0,1,775,0,1,950
+atul03jain,Atul Jain,2787,121,0,1,47,30,8,794
+inbaelee,inbae lee,3393,13,1,1,189,77,8,280
+iAMry3,ry3,2379,3454,0,1,1884,4,6,453
+junorae,Juno Rae,2696,470,1,1,404,171,33,449
+edvaldez8888,Ed Valdez,3082,11727,1,1,14421,1482,1612,15462
+howardnuk,Howard Nuk,2365,337,1,1,89,16,21,345
+seohyo117,hyojung seo,2760,707,1,1,353,1050,11,244
+dariusabdi,Omar Abdillah,2950,11265,1,1,460,28,16,624
+ecase_gr,ecase.gr,2135,2651,1,1,4146,264,2,7323
+Dagueto,Dagoberto Martínez,2921,8980,1,1,1733,2954,18,528
+Ramanjeet,Ramanjeet S Mac,3142,604,1,1,564,22,10,378
+WeGoVR,WeGoVR,1221,35,0,1,174,6,21,515
+Mimeocase,#CMT,2100,4546,1,1,821,236,0,637
+staciehibino,stacie hibino,3123,538,0,1,284,13,25,240
+nickmilne,Nick Milne,3152,1235,1,1,1126,41,15,505
+GalaxySkin,Galaxy Skin,2139,91960,0,1,134,18,98,1162
+SamsungARTIK,SamsungARTIK,518,60,1,1,13,37,9,145
+cheapmobilesell,Mobile Phone Deals,1203,13615,1,1,2069,1,74,1687
+SmartWatchesNow,Smart Watches Now,1420,11126,1,1,364,147,62,1288
+alanho12,Alan Ho,3006,384,1,1,393,202,11,247
+dwoollard,David Woollard,3010,20,0,1,141,4,4,83
+Rize_Bizkit,Theo Bizkit Molling,3055,8835,1,1,562,3682,16,630
+lucky_royal,Royal George,2811,4110,1,1,1133,465,6,299
+JBlackSamsung,Josh Blackmon,921,267,0,1,44,668,1,124
+SamsungHallaxy,Sam Hall,1687,1759,1,1,285,7553,2,233
+nader_nanjiani,Nader Nanjiani,3137,791,0,1,1171,283,64,1110
+carolinewalker1,Caroline Walker,3404,1618,1,1,980,1950,53,688
+reyverdejo,Reynaldo Verdejo,2809,1067,0,1,588,517,18,286
+peb7268,Paul Barrick,3439,3607,1,1,232,895,39,287
+abshah1234,Alok Shah,3053,684,0,1,496,142,19,325
+kikstwitt,Enrique C.,3061,3029,1,1,893,800,38,577
+Samsung_PK,Samsung Pakistan,1497,58,0,1,1,10,0,486
+Aviation_Andy,Andy ✈️,1386,733,0,1,722,563,7,475
+ilyasadwi,ilyasa,2010,45174,1,1,688,1078,0,814
+maneeshsahu,Maneesh Sahu,3417,1808,1,1,105,1021,33,244
+DerekWilmot,Derek Wilmot,3165,9199,1,1,3481,554,272,3149
+RODCAINcom,RodCain,1711,1438,1,1,1131,21163,51,573
+BigSwedeStudios,Big Swede,2761,732,1,1,380,176,10,348
+theiphoneguyau,The iPhone Guy,2080,1475,0,1,398,1,0,769
+spr_test201,Samsung US,1507,411,0,1,4,4,0,12
+il_pans,Roberto Pansolli,3136,1113,1,1,428,571,15,343
+carriemaslen,carrie maslen,1926,6543,1,1,4837,396,521,5265
+SamsungTVKorea,Samsung TV Korea,2579,3329,1,1,26998,27,223,43615
+natlamont,Natalie Lamont,3147,200,1,1,852,13,6,270
+devrelKNOX,williamv,1984,643,1,1,1082,1,9,762
+octavianaputeri,O.P.P.,2491,12068,1,1,252,106,6,363
+nicolab75,Nicola,2412,2253,1,1,603,2522,14,630
+Dugardcom,Dugard.com,1961,599,1,1,506,46,17,1124
+GalaxyS2Roms,GalaxyS2Roms,2093,2877,0,1,106,1,21,1086
+mattinteractive,Matt Thomas,2586,1779,1,1,170,286,42,357
+UnlockFusion,Unlock Fusion,1735,36850,1,1,15,19,67,1463
+jaytothejones,Jay,2850,36221,1,1,577,2827,15,804
+edwintalsma,Edwin Talsma,3123,5508,1,1,184,2321,7,156
+mariospr,Mario Sanchez Prada,2830,2082,1,1,152,537,18,306
+Abrams981,Ed Abrams,3102,2852,0,1,145,17,74,686
+therealSpiky,Kobby Spiky,3017,6390,1,1,1941,218,28,1960
+MNMobileGuy,MN Mobile Guy,1975,4327,1,1,1942,70,7,1305
+KavehVahdat,Kaveh Vahdat,3328,167,0,1,367,27,54,6251
+CEdgeCases,Cutting Edge Cases,627,1760,0,1,8552,582,12,9685
+pycou,Pierre Couteau,3118,95,1,1,118,28,5,131
+aimans_3,Aiman,1289,5282,1,1,659,2404,12,900
+MrSamUllah,The Only Keyser khan,1492,943,1,1,129,280,9,2555
+xcontinental,2 Continents 1 Race,2011,105,1,1,69,13,2,205
+APE254,⚡TH3 TRIPL3 THR3AT⚡,2042,14502,1,1,12045,2400,24,14046
+mamjed,Mohsin Amjed,3258,8440,1,1,303,219,24,375
+magic_tech_rev,Magic Tech Review,852,12544,1,1,1208,3276,73,2511
+lillian_brown,Lillian Brown,3112,1005,1,1,343,227,20,244
+KabralPinto,BILL COLLINS MALIK,909,12243,0,1,1855,3026,21,2266
+samsungupdate0,samsung galaxy grand,113,95,0,1,1740,504,0,431
+MalcaideCR,Martín Alcaide,2341,5024,1,1,213,3105,48,38047
+followsampson,SamSung,2703,1484,1,1,993,31,7,289
+lotushunter,Lotus Hunter,2802,1439,0,1,694,79,28,526
+imagex_media,ImageX,3144,2530,1,1,2645,789,256,3008
+IamReminsce,#BABAHAFUSA,2097,6677,1,1,2665,4,8,3735
+_R1skItAll,Damian,2738,5303,1,1,791,1472,12,390
+nckdwsn,Nick Dawson,3011,1781,1,1,301,4,11,396
+samsung_keys,thelovely,30,475,0,1,246,176,0,76
+vitorviesi,Vitor Fernandes,2955,1617,1,1,421,70,5,172
+NickiWickiWoo,Nicki Elizabeth,3022,8936,1,1,407,823,13,363
+araseli_samsung,Araseli,2283,3195,0,1,130,822,2,224
+TrantelLtd,Transtel,2205,1338,1,1,520,63,7,423
+TheDapperBro,Muriuki Kagiri,2375,1110,1,1,673,447,12,1760
+mallettx,XFrayedMentalityX,3430,6737,1,1,1533,18,11,244
+Kaushamvisingh1,jiyana Samsung 💋,358,80,0,1,1208,145,3,347
+vimon2,Samsung,2192,1165,0,1,2222,211,2,392
+SamsungS8Bot,Samsung Galaxy S8,164,3967,0,1,21,6,0,365
+riverformosa,Rio,3833,1378,1,1,169,244,8,190
+solerwindiaz,Sol Erwin Diaz,3014,3666,1,1,1819,101,19,1001
+drewriot,Drew,3053,3887,1,1,83,1838,14,573
+adriansomoza,Adrián Somoza,2019,930,1,1,228,1149,75,446
+Free3DTV,Prize Director,2426,170,1,1,1230,0,10,1332
+Synctooth,Synctooth Technology,1666,21457,1,1,784,85,18,357
+NinjaQris,Christian@Borjon,3107,508,1,1,388,2763,5,10328
+MSEWLAN,Samsung Ent. WLAN,478,686,0,1,2655,47,27,2890
+CNXNSamsung,Connection Samsung,589,801,1,1,182,17,73,145
+adilaliyev,Adil Aliyev,3066,1051,1,1,53,22,0,535
+Vanerpaddel,Stefan V,1392,1451,1,1,620,421,14,629
+SamsungGamerYT,Brandon Conner(SGYT),1363,1140,1,1,657,147,3,506
+anandarora5,SAKSHI ARORA,2045,61,1,1,67,29,0,77
+ZwegelHet,zwegel het hondje,951,2849,0,1,1028,552,95,943
+Jimelliott70,Jim Elliott,3062,204,0,1,93,48,25,271
+ReBuke78,Michael english,3116,1068,1,1,1065,36,21,439
+SolusGames1,Solus Games,429,230,0,1,1178,2441,28,1196
+32ndShop,32ndShop Phone Cases,1606,2573,1,1,1717,1028,25,1557
+GallantAirCon,Gallant Aircon,2405,1718,1,1,1072,77,14,1503
+samsunggeeks,Samsung Geeks,2168,487,0,1,64,1,7,208
+s1mon87,Simon,2910,15263,1,1,1876,3933,22,779
+ShulgaAlexey,Shulga Alexey,2172,2262,1,1,373,84,47,192
+Dearneman,Jon Horner ❄️,2688,7011,1,1,895,8682,40,809
+suhailjiwani,Suhail Jiwani,3207,157,1,1,94,14,11,177
+marvst,Stephen Marvin,3097,493,0,1,284,217,1,90
+singsangjisung_,sam,1105,45736,1,1,809,24473,20,1613
+TheDailyNoteNet,The Daily Note,1758,297,1,1,76,3,31,1377
+tlumessiah,Jonas Gustavsson,2657,527,1,1,5,1830,16,186
+sureshjay,Suresh Jayaraju,3005,31,1,1,0,0,2,194
+DannyMandrides,Danny Mandrides,3109,1605,0,1,1077,22,19,454
+MisCarrieBaby,Carrie de Swardt,2948,1260,0,1,490,1398,2,161
+sebderhy,Sébastien Derhy,1694,443,0,1,174,684,18,200
+tutienda_ve,www.tu-tienda.com.ve,2361,1043,1,1,1754,68,21,2052
+styumich,Saurabh Tyagi,2989,1686,1,1,223,227,189,327
+Piesang,#AndroidFreak,3217,20262,1,1,57,652,31,719
+SexyGadgetTech,Smart Cool Tech ⭕,1333,3356,1,1,63,1612,26,1269
+SamsungSuomi,Samsung Suomi,2466,2799,1,1,334,451,95,33494
+michaelfulton0,Michael Fulton,1093,762,1,1,47,804,36,875
+code012,Over 9000,3127,1440,1,1,67,123,35,1017
+Smartphone_G,Smartphone_Guru 🇺,1224,1142,1,1,136,333,6,364
+michael_clark_I,Argenta Consulting,3300,677,0,1,1343,14,3,1301
+MedusaBox,Medusa Box,2377,303,1,1,24,0,1,1677
+abouraul,ramzi tarcha,2795,21181,1,1,1282,4509,17,407
+opheliayeung,Ophelia Yeung,2313,555,1,1,204,36,20,244
+DreyRaikkonen,Christian Drey ™,2562,150794,1,1,261,16,35,963
+kshik5,Keith,2472,895,0,1,2119,41,4,801
+SoMaSDF1,Jorge Furuya,2724,359,0,1,97,259,13,231
+JamieJMalcolm,Jamie Malcolm,3044,526,1,1,398,7,16,305
+DinaMaria_R,Dina Guttensohn,2256,771,0,1,731,329,26,449
+stuckwith3,Erica Yu-B,2397,7317,1,1,1832,1057,2,255
+mblast76,Ray Park,2825,10570,1,1,322,18,24,265
+mohammedfaadil,Mohammed Faadil,2630,4872,0,1,904,523,19,634
+TrixieinDixie,Patrice M Christian,3107,3475,1,1,1260,133,19,513
+candreatos,Cindy G Andreatos,3708,1942,1,1,2171,73,27,704
+danniphu,Danni Hu,3164,694,1,1,786,146,17,193
+fanta258,Adam Blackburn,2564,799,1,1,683,775,13,395
+ofLal0,☼,2183,8218,1,1,2144,289,4,1823
+PottersHD,Potters Home Digital,2970,1211,1,1,771,11,9,869
+RokformBiking,RokformUK,1295,545,1,1,461,122,6,667
+_JacobRuiz,Jacob Ruiz,2173,435,1,1,878,671,29,435
+GsmguruNet,GsmGuru.net,646,647,1,1,683,47,1,1423
+AunlockSCom,AunlockS.Com,1010,478,1,1,58,36,4,1740
+newshopcom,newshopcom,799,3268,1,1,933,7,9,2743
+OnYourCaseStore,Jenn,2086,1336,1,1,1049,98,21,1077
+Qazi_Sahb,عمیر قاضی 🔵,1836,4532,1,1,191,3054,17,1238
+BETHA_VISICELL,Apple Store,2086,1033,1,1,1566,25,0,2091
+RJKracing,Richard Kent,2854,729,1,1,211,53,23,222
+SamsungMobiIePH,Samsung Mobile PH,477,9,0,1,3,9,0,140
+parthpareek,Parth Pareek,2791,2323,1,1,158,26,26,283
+poowe893,Weerapong W.,2287,18346,1,1,325,32,9,279
+samsung22mobile,James Eli,800,107,0,1,32,598,3,310
+samsung2016ak,Adam Abright,828,183,0,1,31,936,1,228
+samsung12388,Sam McGaw,1258,2807,0,1,1002,1895,6,215
+samsung_power,Vive HTC,1651,830,0,1,29,1,1,55
+SamsungNote318,If We Fall In❤,829,27898,0,1,744,18668,6,395
+pallavi05g,Pallavi Gupta,3065,1290,1,1,1199,910,13,609
+gaperez10,Pérez 🇵🇷,1304,4686,1,1,1440,2518,5,1025
+robsonperson,Robson Pereira,3056,373,1,1,402,197,7,272
+GalaxyS8_,Samsung Galaxy S8,200,18,0,1,23,0,0,495
+Wretchy,SamsungChard,3034,6355,0,1,839,6240,93,2773
+Samsung_DigAcad,Samsung Academy,80,102,1,1,176,98,0,116
+MusikV,MusikV,3172,241,1,1,261,51,10,177
+Mbasure,Akweenyanga Celeb,2992,17012,1,1,7850,1230,9,10094
+zytooow,Sergio Alfonso,2757,2736,1,1,1473,119,8,772
+ILuvSamsung,I Luv Samsung™,2010,3175,1,1,9,39,4,109
+33_andy,Andy Hodges,2298,4379,1,1,843,3414,3,1033
+johnrouw,John Rouwhorst,3133,1595,1,1,1861,27,50,614
+maheshkk,Mahesh K,2982,341,1,1,117,242,10,165
+asta_toner,ASTA Toner,1549,18020,1,1,1776,36,4,1568
+jimmyispromo,Jimmy Is Promo,1422,1530,0,1,566,533,36,509
+Theroom23,Theroom23,2924,2572,1,1,1089,7,74,454
+ryan_maclean,Ryan MacLean,3065,4422,1,1,739,8715,89,483
+svenswalef,Sven Swalef,2278,7888,1,1,807,19,21,458
+Samsung_Ug,Samsung Uganda,1768,17,1,1,11,0,0,222
+Sammiad,Samsung Mahony,3143,901,1,1,149,140,1,79
+Canon1dmk2,Trevor McGill,2249,1058,1,1,833,40,7,464
+Shakanasurfaces,Shakana Solidsurface,2436,185,0,1,1723,3,6,666
+OG1Dot,HyunJun Jung,1921,476,1,1,52,12,6,159
+hypercade,Hypercade,380,49,0,1,1728,3,6,1066
+SMARTlabZA,SMARTlab,1954,1861,1,1,961,27,14,1138
+KH_Mobile_News,KH Mobile,1778,1327,1,1,1502,0,40,1450
+big_mike_12,Mike Camilleri,3066,2594,1,1,2000,49,19,549
+ecarlos,Enrique Carlos,3409,1110,1,1,44,68,20,302
+samsung1488n,Harvey Bolt,828,346,0,1,34,579,2,246
+SANANOTCLAUS,samsung gang,45,331,0,1,53,152,0,44
+SamsungAndromed,Samsung Andromeda,1710,12590,1,1,1481,0,5,469
+TamirDa,Tamir Daniel,2534,516,0,1,38,71,11,510
+saritweeting,Sarika L,3334,3367,1,1,283,2502,112,507
+skmodell1,skmodell1,2559,128,1,1,1013,126,2,152
+northDacoder,John Ryan,1811,1416,1,1,1626,201,101,476
+SamsungPY,Samsung Paraguay,1957,6387,1,1,356,741,56,21182
+The_Dfins,RSVP,2293,524,1,1,171,0,3,115
+back_block215,Y.Carter,2452,4573,1,1,1804,60,7,638
+StigaTm,Nnaemeka Ezenwajiaku,1899,7753,1,1,1719,543,167,1031
+moya_pura_vida,Artwork By Moya,3097,2295,0,1,1341,1207,10,752
+brokenlcds,Broken Lcds,1640,557,1,1,748,1,5,1096
+DwijalDave,Dwij!,2908,3562,1,1,1795,1556,32,809
+sethdecroce,Seth DeCroce,354,48,1,1,114,16,8,122
+amandaasetiadii,Amanda Putri Setiadi,2380,25965,1,1,380,23,0,910
+GillerPhil,Phil Giller,1235,649,0,1,1190,290,29,577
+Biggvee101,#BIGGVEE101,3068,7157,1,1,2357,162,12,754
+TruCommSBSInc,TruComm SBS Inc.,450,24,0,1,1260,13,6,1052
+fgarnier_,Fred Garnier,929,632,1,1,756,950,19,214
+realweirdart,Real. Weird. Art.,1727,292,0,1,45,57,4,82
+Quickhandys,Quickhandy,2744,4450,1,1,1512,0,10,737
+swadhaJais,Swadha Jaiswal,3074,1345,1,1,220,426,16,439
+myclearanceclub,MetroPC.us,1575,247,0,1,25,1,0,11391
+bbluxury1,bbluxury,1372,347,0,1,86,35,7,1118
+rockleung,Rock Leung PhD,2394,176,0,1,161,12,11,166
+SandyRMuir,Sandy Muir,2278,6648,1,1,222,3612,57,840
+UpdatoFeed,UPDATO,3037,1572,1,1,11,1,0,957
+lohanstruwig,Lohan Struwig,1479,392,1,1,1273,75,45,1144
+mobilesphone,uk mobile phone,2936,11034,1,1,1438,76,57,1605
+findlostphone,PhoneAngel,776,1371,1,1,1434,883,40,1088
+mobilesolarchrg,Mobile Solar Charger,1892,583,0,1,693,41,11,689
+wojtekwalczak,Wojtek Walczak,2744,2226,1,1,232,236,18,198
+strazzaque,Sherief Razzaque,1912,2093,1,1,208,346,51,218
+LPShipway,Luke Shipway,2206,7376,0,1,353,2276,8,396
+DigimobAU,Digimob,2690,465,1,1,585,1,19,500
+carawonders,Cara Wonders,3154,68,1,1,1768,1,5,296
+lipevgoncalves,Filipe Gonçalves,1800,1154,1,1,540,17568,19,575
+RthSam,Sam,1954,514,1,1,40,3,5,651
+fabry_aby,Fabry Fahlevi Lubis,2927,20448,1,1,204,1,5,381
+RST_photography,Robert Stienstra,2424,1803,1,1,701,100,39,665
+onrasln,Onur Aslan,2733,1025,1,1,241,24,10,236
+samsung43,wentzelvh,2762,1194,1,1,164,2275,2,115
+MFTUK1,Jai-MagicUK,1725,7750,0,1,798,2017,6,1257
+didacus64,Diego Ferretti,3299,788,1,1,2180,1120,5,415
+CharlesLosier,Charles Losier,2319,2588,1,1,991,106,13,714
+SabillaRfd,rifda s.,2033,18921,1,1,189,4,0,604
+Harry_Kaminsky,Harrison Kaminsky,2548,2089,1,1,448,1781,17,998
+ItechUnlimited,iTech Unlimited: Unl,1493,8684,1,1,753,238,47,1444
+Terrance_Blount,Terrance Blount,3071,7897,0,1,443,6955,22,483
+android_choices,Samsung Galaxy S9,358,505,0,1,206,279,19,240
+LivingGloss,Princess Samsung,276,2185,1,1,261,191,4,45
+sonny122955,Sonny Samsung Carino,776,32924,0,1,1732,417,3,653
+samsung0803,samantha ashley,3015,8296,0,1,612,311,0,251
+WillyLaiDesign,Willy Lai,1532,72,0,1,40,85,18,449
+samsung41088471,The beatiful,684,206,0,1,1001,1137,1,502
+samsungitmall,SamsungITMall,1403,438,1,1,1471,0,1,1224
+helenheemskerk,Helen Heemskerk,2281,13257,0,1,1253,33,10,785
+MajorNadeRaid,A.J. Hanns,2234,3627,1,1,1677,4105,13,477
+cariad_photos,Cariad Photos,932,1140,0,1,1132,14409,21,763
+marco_castorina,Marco Castorina,1053,988,1,1,427,23,8,132
+phon_android,phon android,2570,158314,0,1,1,0,103,765
+Mistrigf,Sara2309🐝🌼,2543,6592,1,1,212,11290,44,323
+AllAboutSamsung,AllAboutSamsung,2267,13918,1,1,177,688,115,6385
+Samsung_Apk,Samsung,1355,89,0,1,1921,0,1,448
+theedbretten,Ed Bretten,2524,1900,1,1,215,104,18,649
+SamsungTrends,Samsung Trends,946,9474,0,1,83,2858,46,139
+SamsungCatalyst,Samsung Catalyst,49,12,0,1,2,0,2,10
+SamsungLatino,Samsung Android LA,1934,149,0,1,257,27,3,292
+maDJik_Johnson,maDJik Johnson,2380,4612,1,1,985,3761,9,937
+DigitexCanada,Digitex Canada Inc.,2317,844,1,1,863,95,14,434
+_Jeremy974,ジェレミー974 🌐,1546,6959,1,1,754,44,9,182
+Reev3rb,Rob White,2911,973,1,1,409,432,10,304
+mickmcconnell,Mick McConnell,3157,178,1,1,208,56,4,161
+linggom,Goman,2810,11021,1,1,357,163,18,471
+hyukjeen,Hyuk-Jeen Suh,3011,48,0,1,104,7,15,224
+MATOALBO,Tomás Alvarado,3053,3476,1,1,603,25,5,396
+theDrThumbs,Ian Dunton,3113,3186,1,1,657,611,39,375
+silosooyoung,Siloso,1581,30431,1,1,1170,1973,19,1808
+burnoutband,Josh Daeseon Kim,3025,235,1,1,696,121,11,302
+HomerS66,HomerS66,1383,1987,0,1,122,1931,3,228
+kibbsnk,nigel,3062,7522,1,1,1227,6607,31,662
+seri_org,삼성경제연구소(SERI),3005,3200,1,1,12226,224,6260,255358
+salutemichelle,michelle tsng,685,972,1,1,1228,425,56,467
+SamsungCard,삼성카드,2670,3473,1,1,34039,50,406,32057
+SamsungWalsh,Angelina Samsung,800,282,0,1,146,129,15,87
+SamsungPay_KR,Samsung Pay KR,330,435,1,1,3,3,5,655
+emjansen,Emily Jansen,3125,173,1,1,289,174,8,181
+GiftsSamsung,Samsung,351,209,0,1,867,0,0,78
+samarianmiller,samsung,1358,1240,1,1,519,5764,1,133
+Samsung_galaxy1,Best Tablet PC,2215,29319,0,1,21,0,38,409
+Pixie_kh,K,1858,3773,1,1,450,2639,21,428
+PrinceCMK_,Ali Adam,2759,5571,1,1,1242,38,12,373
+krishna_radhe1,Samsung Galaxy A7,554,617,0,1,223,609,7,326
+SC2Journey,서태희,1245,81,0,0,45,3,6,435
+samsung_ash,Ash Samsung,660,289,1,1,323,17,18,125
+__NatalieNomad,YoungSamsung,1249,10867,0,1,1581,5565,14,2551
+Samsung_JJ,Jonathan Jones,1462,71,0,1,473,161,2,153
+SamsungIR,Samsung IR,772,496,0,1,1,0,11,418
+samsung1977,peter gathercole,2809,657,0,1,248,255,1,78
+markcorbsamsung,Mark Corbett Samsung,613,43,0,1,77,9,0,56
+GrantSamsungBiz,Grant Frederiksen,413,152,1,1,123,7,11,84
+Eli_Samsung,theodore 8,2937,4406,1,1,103,127,3,91
+SamsungHVACUSA,SamsungHVAC USA,528,16,0,1,68,16,1,66
+SamsungHoagie,Scott Hoaglund,828,153,0,1,73,44,9,53
+DocSamsung88,DocSamsung88,1304,1576,1,1,212,5,4,368
+Emily18461754,Samsung Galaxy S8+,161,25,0,1,812,0,0,349
+CMoyaSamsung,Celina Moya,913,103,0,1,37,88,3,78
+samsteamMP1,Samsung Mobile US,535,18,0,1,2,0,0,2
+SamsungCEEA,Samsung East Africa,1032,695,0,1,220,11,0,154
+info_samsung,Samsung News,1638,104,0,1,27,10,1,43
+case_s5,Samsung S5 Case,414,6,0,1,279,0,0,149
+SamsungNote7_,Samsung Note 7,420,5,0,1,1,11,0,283
+S7Case,Samsung Galaxy S7,563,9,0,1,216,8,0,277
+JasonSamsung1,Jason Samsung,660,261,0,1,52,0,14,31
+SamsungPride,Samsung Devices,1811,307,1,1,431,58,0,155
+SamsungAbujaApo,Samsung Abuja Apo,1125,163,0,1,59,4,1,64
+eazyimvioeds,Samsung Mobile US,870,128,1,1,71,130,2,20
+samsung73051,HBD/JB/22nd,883,5748,1,1,388,735,0,177
+AbigailSamsung,Abigail Donkor,232,19,0,1,23,26,0,21
+TheSamsungGuy,Kenya Wells,598,190,0,1,79,28,6,37
+BaDDyWIZE,ⓑⓐⓓⓓⓓⓨⓦⓘⓢⓔ⇨⇨#Samsung,1471,173396,0,1,65,443,56,144
+179e94d3eeb247e,Samsung Samsung,1115,534,0,1,396,387,0,155
+SamsungHDD,Samsung Hard Drive,2959,383,1,1,708,3,44,1258
+TraffordSamsung,Samsung Trafford,660,153,1,1,242,810,2,83
+1samsungCares,1Samsungcares,574,87,0,1,62,577,0,69
+samsung1903,1ATabletPC,2215,31206,0,1,35,0,14,113
+Samsung_S5,Samsung Galaxy S5,1762,352,1,1,4646,3,63,28390
+SamsungMobileSL,Samsung Sri Lanka,1555,1792,1,1,5,0,3,136
+Galaxys6tweets,Samsung Galaxy S6,921,62,0,1,5,12,1,195
+Samsung44990884,Мадина Амани,414,870,0,1,47,423,1,285
+SamsungHenny,Matthew Hennessy,436,45,0,1,539,39,1,103
+samsung_storepk,samsung_store_pk,771,964,0,1,100,2,0,71
+SamsungRoque,Roque Hernandez,506,563,0,1,185,1183,0,60
+YourSamsungGuy,Your Samsung Guy,337,154,0,1,70,190,0,58
+SamsungDanUK,Dan Griffiths,682,271,0,1,192,26,17,112
+CB_1samsung,Charles Bautista,920,19,0,1,61,44,0,78
+RichardSamsung,Richard Walton,1993,27,0,1,12,65,0,4
+MMOW_Samsung,Null and void,611,139,0,1,128,112,0,61
+SamsungIndy,Jason Smith,1522,458,0,1,132,95,0,78
+SteveSamsung1,Steve Hall,800,169,0,1,230,120,1,72
+SamsungDoll,Dolly,561,186,0,1,148,114,0,64
+SAMSUNG_SIGN,SAMSUNG SIGN&AWNING,373,12,0,1,823,5,0,136
+SamsungVitamin,Pickvitamin SG,52,30,0,1,819,31,0,70
+SGalaxyS2Review,Samsung Galaxy S2,2396,378,1,1,1109,0,58,4455
+Pksjjj111,SAMSUNG,2090,1019,1,1,2211,992,2,3759
+Samsungjob,Samsung Electronics,2774,973,1,1,1,0,377,11170
+deybidabu,Deyb Samsung,830,966,1,1,151,96,0,83
+twittlions,삼성 라이온즈,2346,2371,1,1,39,4,272,247700
+samsungapps_kr,Samsung Apps Korea,2412,690,1,1,916,1,38,3334
+SamsungSDS_TLC,SamsungSDS_TLC,2906,227,1,1,812,2,82,918
+SamsungGaIaxy7,SAMSUNG ❄,579,210,1,1,1167,489,0,272
+GalaxyS3iii,Samsung Galaxy S3,2085,0,0,1,0,0,8,3309
+memphisto2,Mr Samsung,1494,655,1,1,205,351,0,44
+WaktechSamsung,WAKTECH-SAMSUNG,356,11,0,1,170,5,0,36
+machinetools_sa,Samsung Machinetools,1341,227,1,1,102,3,1,87
+SamsungDean,Dean McCombs,166,152,0,1,73,266,0,60
+Samsung20148,Prince Lubinda,611,14,0,1,549,21,0,279
+Rivera_Samsung,Eric Rivera,441,10,0,1,7,35,0,47
+samsung151098,Станислав Невоструев,584,26,0,1,279,5,0,189
+IndySamsung22,Nathan Watkins,282,81,0,1,91,381,0,69
+Jamar_Samsung,Aaron Strongin,605,1213,0,1,140,7239,1,65
+howden_mark,Mark Howden Samsung,581,45,1,1,271,13,5,49
+SamLargent,Samsung 💯 🚀,1837,435,0,1,565,780,2,123
+abderrahimham14,samsung galaxy s7_S6,360,10,0,1,444,2,0,85
+DiscandDev,Samsung TL&D Team,968,58,0,1,72,112,0,41
+Claudia_Samsung,Claudia Gonzalez,277,94,0,1,134,348,1,55
+bluewingsfc,수원삼성블루윙즈축구단,2931,9190,1,1,51,0,299,50478
+FDLSamsung,Samsung Mobile BD,864,94,1,1,66,4,0,104
+samsungsidi,Samsung SIDI,2710,117,0,0,31,63,4,24
+Deepesh_samsung,Deepesh singh thakur,2392,198,1,1,131,505,0,96
+SamsungStudio,Samsung Studio,2702,1493,1,1,196,478,81,6387
+plexforsamsung,Plex for Samsung,2287,315,0,1,1,0,23,1784
+Samsung_Baby,Samsung Baby,2617,75922,1,1,1002,23,8,1374
+Samsung_Tunisie,Samsung Tunisie,2356,5765,1,1,583,151,29,5094
+samsungjet,Samsung Mob!le,3034,860,1,1,876,1,52,2167
+samsung_fanz,MyBramdz,2717,427,0,1,1419,0,40,1289
+badamobile,Samsung Bada,2802,56,1,1,4,0,63,2376
+GalaxyS8News,Samsung Galaxy S8,387,4622,1,1,1,0,10,3056
+SamsungCEKorea,Samsung CE Korea,2753,5879,1,1,81888,0,0,84327
+SamsungMobileTz,Samsung Mobile TZ,1687,5255,1,1,1909,541,19,5502
+SamsungEmporium,Samsung Emporium,1201,12,0,1,75,0,1,92
+GanarSamsung,Gana Samsung,1259,2,0,1,0,0,11,15034
+Termisfa,Termisfa,1811,5475,1,1,71,7934,29,18320
+SamsungITKenya,Samsung IT Kenya,1713,8,0,1,37,0,0,368
+SamsungLED,Samsung LED TV,3035,31,1,1,187,0,58,2730
+CIENT_Co,CI ENT,1080,2564,0,1,16,0,137,23518
+GalaxyCameraNL,GalaxyCameraNL,1703,225,1,1,299,0,4,742
+galaxysamsungs6,Samsung Galaxy S6,1331,889,0,1,296,15,1,3249
+joshylofty,josh lofty,3063,33444,1,1,1071,3037,56,1419
+Telenor_HUN,Telenor Hungary,2923,6231,1,1,16223,1100,98,23249
+SamsungSrbija,Samsung Srbija,2075,4596,1,1,571,1375,59,14371
+VaingloryES,Vainglory Español,817,9472,1,1,293,6252,22,10992
+sanyakapil,Sanya Kapil,2689,1057,1,1,86,57,6,354
+SamsungFUSNews,Quattro Formaggi,2582,5337,1,1,0,2,21,654
+fitzmadrid,Fitz Madrid,3338,15357,1,1,440,7,48,4258
+VirtualTaboo,Virtual Taboo,917,1684,1,1,398,979,146,5979
+samsungcampaign,Samsung Campaign,2795,4163,1,1,10645,7,568,10493
+samsung_capture,Capture Your World,3028,466,1,1,323,0,19,588
+Samsung_IFA2010,Samsung IFA 2010,2601,392,1,1,504,4,17,677
+jasonostrander,jasonostrander,3269,12254,0,1,412,3790,49,618
+suzanschulting,Suzanne Schulting,2432,4623,1,1,191,713,31,1490
+SamsungKyle,Kyle Lazarus,1634,249,1,1,288,60,34,262
+samsung247news,samsung mobile now,555,14929,0,1,2445,163,27,1017
+GalaxyNote4News,SamsungGalaxy Note 4,1465,54,0,1,3,0,18,2972
+GaIaxyS4_,Samsung,1278,32,0,1,1,0,0,4327
+SamsungDestekTR,Samsung Destek,1087,664,1,1,8,0,2,1437
+SamsungJapanfb,Samsung Japan,2257,182,0,1,677,0,18,744
+freexdesi,Mobile Porn Videos,2820,2768,1,1,72,14,20,7323
+LaTrastiendaBA,La Trastienda,2387,13389,1,1,224,10739,148,31451
+boostedtweets,Boosted,2489,296,1,1,131,1,26,5992
+samsungTABss,Anton Tablante,1218,4093,0,1,286,4461,4,198
+Samsungnews365,Samsung Mobile US,582,15053,0,1,1329,153,28,721
+FansSamsungS6,Fans de Samsung,1198,4260,0,1,148,2,18,4109
+SamsungBulgaria,Samsung Bulgaria,1880,2329,1,1,230,371,27,711
+ashleylsisung,samsung,2033,3958,1,1,255,4496,0,431
+SagarHatekar,Sagar K Hatekar,2939,2390,1,1,355,364,12,428
+wasimofnazareth,Wasim Of Nazareth,2474,10612,1,1,876,7168,552,669
+SamsungStoreCL,Samsung Store Chile,2128,1111,1,1,1380,17,6,878
+soyyo_samsung,S,3016,31837,1,1,291,484,2,338
+retweet_samsung,Retweet Samsung,1539,80149,1,1,0,4,13,934
+TSAR3000,Tsar KHwajha,2773,8683,1,1,483,0,21,1942
+updayFR,upday for Samsung FR,749,3950,1,1,210,541,48,583
+aimeenancygrace,Mr. Yahaya Mahama⏳,3170,39205,1,1,389,71298,34,768
+GalaxyS6Edge,Samsung Galaxy S6,931,5,0,1,0,11,4,2311
+the_horla,Gregor Samsung,2892,18905,1,1,149,9263,6,114
+7SAMSUNG_,알-마지야드 호삼,2498,9145,1,1,289,345,8,262
+chadsotelo,Chad Sotelo,3671,2525,1,1,112,51,5,264
+bangnana,Rizkie Maulana Putra,2963,5162,0,1,140,25,10,674
+daniloasueiro,Danilo A Sueiro,2664,20484,1,1,579,4686,36,6340
+Samsung_7,Samsung,2888,841,0,1,1018,0,7,866
+SamsungTVAust,Austin Kim,2597,14,1,1,1794,0,38,897
+stueydessler,Stuart Dessler,2990,17303,1,1,339,3291,35,1330
+SamsungGreen,Samsung Green,3167,1,0,1,6,0,8,336
+FR_Samsung,News Sumsung,1403,144,0,1,630,0,9,2428
+edgarguru1,Samsung,1093,92,0,0,4,0,0,1
+CScally_Samsung,Catherine Scally,647,302,0,1,1941,137,29,874
+samsungelectr,samsung electronics,2259,481,0,1,711,0,5,485
+Samsung72673386,Samsung,323,77,0,0,1052,0,2,240
+michieldijkman,Michiel Dijkman,3170,4556,1,1,1406,3459,123,7250
+SamsungCameraNG,Samsung Camera NG,1565,974,0,1,125,5,8,1154
+updayPL,upday for Samsung PL,750,20089,1,1,315,990,25,198
+egcoder,Ismail Issa,2424,2828,1,1,1307,91,0,1019
+Jasongrimmusic,Jason Grim,2509,4221,1,1,451,2748,0,3151
+SamsungSPSN,Samsung SPSN,2389,557,0,1,313,1,14,369
+henklbr,henklbr™ 🇳🇱,2756,43077,1,1,602,7,132,479
+samsung_tvs,Samsung TVs,2639,164,0,1,1359,0,9,1013
+AceS5830,Samsung Ace,2158,874,1,1,9,86,4,1638
+s4galaxyru,Samsung Galaxy S4,1717,6018,1,1,6,0,4,1091
+updayESP,upday for Samsung ES,333,2785,0,1,173,14,1,96
+SamsungUnlocked,Celluloco Samsung,2841,5270,1,1,511,0,4,281
+SamsungParts,SamsungParts,2702,48,1,1,1710,0,7,595
+LaTrastiendaMVD,La Trastienda MVD,2558,12208,1,1,74,7753,49,17043
+glanvilluminati,Kristina,1701,13434,1,1,242,16961,26,554
+SamsungEfan,SamsungEfan,1876,1371,1,1,82,368,1,257
+copasamsung,Copa Samsung,1565,1634,1,1,24,36,0,631
+Preachie_me,Samsung,1704,9793,1,1,626,15,9,396
+gyongsu,Gyongsu,2839,7564,1,1,356,58,46,642
+jmouldingBRAND,Jamie Moulding,3157,20100,1,1,1701,363,8,513
+mobilers3_a,Samsung Mob!lers3 A,2421,135,1,1,1656,5,17,1092
+jasperwillem,jasperwillem,3474,47331,1,1,1337,3151,31,463
+Sheepsugar,Judith Sheep ξ(⌒.⌒)/,2990,50106,1,1,2029,821,27,704
+alqssemiandroid,android alqssemi,1926,6283,1,1,982,1201,81,2823
+samsung17,John Rooney,3051,998,0,1,1244,13293,2,423
+ilovefrootloops,toucan sam,342,5197,0,1,79,1042,1,70
+viphouten,Eric Verbeek,2545,12063,1,1,32,132,25,608
+samsung_30,Sami,1936,5230,0,1,266,9571,3,243
+obamapacman,ObamaPacman,2795,17594,1,1,113,383,39,375
+Samsungindex,Samsungindex,2873,8,1,1,20,0,186,8306
+Yfiv3,🔰 Daniel H.,2003,27418,1,1,677,11605,0,950
+Del_With_1_L,Del Jim Baxter,3122,59824,1,1,657,496,15,750
+PrincessAyyo,Ayo✨,1923,19727,0,1,912,132,11,1494
+PornGayVR,Gay VR Porn,2090,157,1,1,2193,103,6,1466
+odrakenberg,Oskar Drakenberg,2153,868,1,1,267,998,5,403
+anbcomponents,anb components,2959,133,1,1,20,0,145,12415
+joshgroth,Josh Groth,3115,11164,1,1,1111,74,210,2141
+elektrik1234,Ars Persindo Mandiri,2418,28601,1,1,0,12,2,17152
+ken_johnson122,A Samsung guy,1316,2256,0,1,200,2623,2,230
+royiby,(((Royi Benyossef))),3107,1690,0,1,42,386,22,466
+pctienda,pctienda,2948,300350,1,1,25403,3,408,45728
+savoirinutile,Savoir Inutile,3061,5241,1,1,261,4,193,10753
+sajaanid,Samsung L. Jackson,3116,71,1,1,46,52,0,56
+duddlepuck,Catherine Robinson,2971,2978,1,1,503,229,2,154
+SamsungShawty,PigeonManVEVO ♿,1814,8063,1,1,38,3631,4,60
+CompugateCenter,CompuGate Center,2783,66840,1,1,14374,4439,210,31286
+DondreFilipe,Lil Samsung,226,572,0,1,426,891,2,163
+aldymeyo,Raynaldy Pamungkas,2701,19584,1,1,377,61,0,520
+saamsungx3,Samsung Cuntrol,627,754,1,1,217,430,0,191
+Rainyday8169,Rainyday Superstar,2834,9320,1,1,987,1713,43,853
+EnnuiPrayer,Observant Reader,3155,23267,1,1,295,2361,11,306
+BeCee_BeTrappin,🏚🆙🔝,2423,12804,1,1,173,2118,4,1269
+MatthewKing35,Matthew King,2087,12776,1,1,1720,6130,36,559
+Cepkolik,Cepkolik,2034,8115,1,1,519,76735,23,177326
+SamsungGalaxy84,Samsung Galaxy Forum,1102,13,0,1,28,0,1,3483
+samsung0328,Sam Sung,1622,721,1,1,158,1542,1,163
+philhayes_,Phil Hayes,3092,10258,1,1,582,2622,13,331
+francomendez06,Samsung,1346,4129,0,1,1021,16558,7,512
+khen_dhii,princess samsung 🦄,532,436,0,1,1192,2358,1,244
+daniellebrownn8,Danielle Brown,3066,3704,1,1,1964,2327,0,572
+PhoneCaseButler,PhoneCaseButler,2350,19651,0,1,2058,8,57,1198
+BootyClap4me,HANDSOME TEDDY BEAR,2706,20808,1,1,630,3761,18,1012
+VitaSamsung,Johnson John,1526,595,0,1,293,54,0,49
+RomGalaxy,samsung galaxy rom,249,4321,0,1,2470,3,1,361
